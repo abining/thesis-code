@@ -1,0 +1,3365 @@
+{
+  "status": 0,
+  "message": "ok",
+  "total": 122,
+  "result_type": "poi_type",
+  "query_type": "general",
+  "results": [
+    {
+      "name": "西堠门大桥风景旅游区",
+      "location": {
+        "lat": 30.105653,
+        "lng": 121.961947
+      },
+      "address": "浙江省舟山市定海区G9211(甬舟高速公路)",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "定海区",
+      "telephone": "(0580)8770777",
+      "detail": 1,
+      "uid": "042abbd3e15387704d2fdfc2",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 121.96300900011,
+          "lat": 30.105249909983
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=042abbd3e15387704d2fdfc2&output=html&source=placeapi_v2",
+        "overall_rating": "3.9",
+        "comment_num": "25",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "岱山风景名胜区",
+      "location": {
+        "lat": 30.328922,
+        "lng": 122.188232
+      },
+      "address": "舟山市岱山县高亭镇山外路195号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "岱山县",
+      "detail": 1,
+      "uid": "16977ee3139452f49f82eaf9",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.18802511979,
+          "lat": 30.329010905185
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=16977ee3139452f49f82eaf9&output=html&source=placeapi_v2",
+        "overall_rating": "5.0",
+        "comment_num": "16",
+        "shop_hours": "00:00-24:00",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "沈家门渔港",
+      "location": {
+        "lat": 29.949963,
+        "lng": 122.316453
+      },
+      "address": "浙江省舟山市普陀区滨港路普陀区中兴农贸市场(中兴路)西南侧约270米",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "street_id": "59dbb40d5599a9ed3010af82",
+      "telephone": "13335805211",
+      "detail": 1,
+      "uid": "59dbb40d5599a9ed3010af82",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;4A景区",
+        "new_alias": "沈家门港",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.31639029321,
+          "lat": 29.950175938264
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=59dbb40d5599a9ed3010af82&output=html&source=placeapi_v2",
+        "overall_rating": "4.7",
+        "image_num": "21",
+        "comment_num": "12",
+        "shop_hours": "00:00-24:00",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "舟山桃花岛风景旅游区",
+      "location": {
+        "lat": 29.820563,
+        "lng": 122.282585
+      },
+      "address": "浙江省舟山市普陀区桃花镇",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)6063668",
+      "detail": 1,
+      "uid": "64ff3be17813a6c690114ce9",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;4A景区",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.23944313705,
+          "lat": 29.829218238078
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=64ff3be17813a6c690114ce9&output=html&source=placeapi_v2",
+        "overall_rating": "4.4",
+        "comment_num": "63",
+        "shop_hours": "00:00-24:00",
+        "label": " AAAA景区,山",
+        "children": []
+      }
+    },
+    {
+      "name": "双泉禅院",
+      "location": {
+        "lat": 30.004427,
+        "lng": 122.397592
+      },
+      "address": "舟山市普陀区法雨路97号(锦屏山庄)",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "09185c560e74c220f1193739",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "new_alias": "普陀山风景名胜区-双泉禅院",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.39806658095,
+          "lat": 30.004463446217
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=09185c560e74c220f1193739&output=html&source=placeapi_v2",
+        "overall_rating": "4.7",
+        "comment_num": "6",
+        "shop_hours": "",
+        "label": "景区,寺庙",
+        "children": [],
+        "parent_id": "a5097bfa3e2a5362f03cbace"
+      }
+    },
+    {
+      "name": "舟山市朱家尖南沙景区沙滩",
+      "location": {
+        "lat": 29.883968,
+        "lng": 122.413443
+      },
+      "address": "舟山市普陀区龙眼线朱家尖国际沙雕艺术广场",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)6632545",
+      "detail": 1,
+      "uid": "9e2b7604bd2a1dae213bf254",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;海滨浴场",
+        "tag": "旅游景点;海滨浴场",
+        "navi_location": {
+          "lng": 122.4133936221,
+          "lat": 29.883913634068
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=9e2b7604bd2a1dae213bf254&output=html&source=placeapi_v2",
+        "comment_num": "3",
+        "shop_hours": "",
+        "label": "旅游景点 海滨浴场",
+        "children": [],
+        "parent_id": "373cf757611c256d4354d7ec"
+      }
+    },
+    {
+      "name": "七彩瞭望台",
+      "location": {
+        "lat": 30.711027,
+        "lng": 122.437208
+      },
+      "address": "浙江省舟山市嵊泗县G526",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "5027cad483f31191f7e73b5c",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=5027cad483f31191f7e73b5c&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "3",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "c2fd07fb607ee01f6cc02ca7"
+      }
+    },
+    {
+      "name": "双合石壁",
+      "location": {
+        "lat": 30.300199,
+        "lng": 122.070844
+      },
+      "address": "舟山市岱山县岱西镇小岙村156号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "岱山县",
+      "street_id": "1cea15a991e5c2c607fef5e9",
+      "telephone": "13857216948",
+      "detail": 1,
+      "uid": "1cea15a991e5c2c607fef5e9",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "new_alias": "石壁景区;双合石壁景区",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.06969861312,
+          "lat": 30.298638392369
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=1cea15a991e5c2c607fef5e9&output=html&source=placeapi_v2",
+        "overall_rating": "4.2",
+        "comment_num": "12",
+        "shop_hours": "08:30-17:30",
+        "label": "景区,洞穴",
+        "children": []
+      }
+    },
+    {
+      "name": "青龙山公园",
+      "location": {
+        "lat": 29.958282,
+        "lng": 122.31561
+      },
+      "address": "东海东路7号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "street_id": "",
+      "detail": 1,
+      "uid": "d1469ee7f6938561843304f7",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;公园",
+        "tag": "旅游景点;公园",
+        "navi_location": {
+          "lng": 122.31785044296,
+          "lat": 29.956089287219
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=d1469ee7f6938561843304f7&output=html&source=placeapi_v2",
+        "overall_rating": "4.6",
+        "comment_num": "6",
+        "shop_hours": "00:00-24:00",
+        "label": "景区,公园",
+        "children": []
+      }
+    },
+    {
+      "name": "燕窝山景区",
+      "location": {
+        "lat": 30.354003,
+        "lng": 122.184543
+      },
+      "address": "浙江省舟山市岱山县东沙镇泥峙燕窝山33号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "岱山县",
+      "detail": 1,
+      "uid": "2ecbb3ac4d82cd62f33cba09",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.18401245068,
+          "lat": 30.352944818872
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=2ecbb3ac4d82cd62f33cba09&output=html&source=placeapi_v2",
+        "shop_hours": "00:00-24:00",
+        "label": "旅游景点 自然景观 风景区",
+        "children": []
+      }
+    },
+    {
+      "name": "朱家尖观音文化苑",
+      "location": {
+        "lat": 29.940389,
+        "lng": 122.389955
+      },
+      "address": "朱家尖印象普陀大剧场旁",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "street_id": "31f9101b10e8d9ba26e0a0ef",
+      "detail": 1,
+      "uid": "31f9101b10e8d9ba26e0a0ef",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.38878081351,
+          "lat": 29.938648220505
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=31f9101b10e8d9ba26e0a0ef&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "4",
+        "shop_hours": "08:00-17:30",
+        "label": "景区,山岳/山岭 宗教场所",
+        "children": [],
+        "parent_id": "97eb88c3414c34f18a36ee31"
+      }
+    },
+    {
+      "name": "仙人井",
+      "location": {
+        "lat": 29.994741,
+        "lng": 122.396874
+      },
+      "address": "浙江省舟山市普陀区普济路350号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "606289fdd8017c30a2046439",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.39687397303,
+          "lat": 29.99473959301
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=606289fdd8017c30a2046439&output=html&source=placeapi_v2",
+        "overall_rating": "4.8",
+        "comment_num": "4",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "a5097bfa3e2a5362f03cbace"
+      }
+    },
+    {
+      "name": "东海大峡谷",
+      "location": {
+        "lat": 30.091287,
+        "lng": 122.057808
+      },
+      "address": "浙江省舟山市定海区双桥街道紫薇社区狭门五区179号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "定海区",
+      "telephone": "(0580)2978855",
+      "detail": 1,
+      "uid": "b9b3367b372b0398f4b91670",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.05781761277,
+          "lat": 30.091339302401
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=b9b3367b372b0398f4b91670&output=html&source=placeapi_v2",
+        "overall_rating": "4.0",
+        "shop_hours": "08:30-16:30",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "洋山深水港观光游览区-小石龙",
+      "location": {
+        "lat": 30.644745,
+        "lng": 122.068409
+      },
+      "address": "舟山市嵊泗县小洋山洋山石龙景区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "8b7a00c062f4a8c5d12dd6de",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.06876296814,
+          "lat": 30.64314142788
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=8b7a00c062f4a8c5d12dd6de&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "1",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "中国海岬公园",
+      "location": {
+        "lat": 30.333222,
+        "lng": 122.199314
+      },
+      "address": "浙江省舟山市岱山县黄燕线",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "岱山县",
+      "detail": 1,
+      "uid": "9490ee2a97bfbed69703197e",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;公园",
+        "tag": "旅游景点;公园",
+        "navi_location": {
+          "lng": 122.19829701701,
+          "lat": 30.333007292665
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=9490ee2a97bfbed69703197e&output=html&source=placeapi_v2",
+        "overall_rating": "3.7",
+        "comment_num": "27",
+        "shop_hours": "00:00-24:00",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "16977ee3139452f49f82eaf9"
+      }
+    },
+    {
+      "name": "卵石滩",
+      "location": {
+        "lat": 29.901936,
+        "lng": 122.432633
+      },
+      "address": "舟山市普陀区朱乌线舟山汐迟半海民宿东侧约80米",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)6031021",
+      "detail": 1,
+      "uid": "46afd9d8fc3c71c338e4a6b6",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.43251273476,
+          "lat": 29.901882497299
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=46afd9d8fc3c71c338e4a6b6&output=html&source=placeapi_v2",
+        "overall_rating": "4",
+        "comment_num": "3",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "97eb88c3414c34f18a36ee31"
+      }
+    },
+    {
+      "name": "风电观光平台",
+      "location": {
+        "lat": 30.455776,
+        "lng": 122.40877
+      },
+      "address": "舟山市岱山县",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "岱山县",
+      "detail": 1,
+      "uid": "19ee0b39701edc3f3617dc9f",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "new_alias": "大巨风车平台;风车观望平台",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.40896808784,
+          "lat": 30.455640984269
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=19ee0b39701edc3f3617dc9f&output=html&source=placeapi_v2",
+        "overall_rating": "4.5",
+        "comment_num": "12",
+        "shop_hours": "00:00-24:00",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "龙泉沙滩",
+      "location": {
+        "lat": 30.714989,
+        "lng": 122.781386
+      },
+      "address": "舟山市嵊泗县嵊山枸杞景区",
+      "province": "",
+      "city": "",
+      "area": "",
+      "detail": 1,
+      "uid": "ce0878da2c0b803271210b8e",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;海滨浴场",
+        "tag": "旅游景点;海滨浴场",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=ce0878da2c0b803271210b8e&output=html&source=placeapi_v2",
+        "overall_rating": "0",
+        "comment_num": "1",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "cb358b8b5068d4aa2902e193"
+      }
+    },
+    {
+      "name": "田岙沙滩",
+      "location": {
+        "lat": 30.712246,
+        "lng": 122.508264
+      },
+      "address": "舟山市嵊泗县东厂弄9号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "865a2a4ff3b7b3b73a13fdaa",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;海滨浴场",
+        "tag": "旅游景点;海滨浴场",
+        "navi_location": {
+          "lng": 122.50832850211,
+          "lat": 30.712499041331
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=865a2a4ff3b7b3b73a13fdaa&output=html&source=placeapi_v2",
+        "overall_rating": "4.3",
+        "comment_num": "14",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "1fbb37902665d6650d3ddac1"
+      }
+    },
+    {
+      "name": "杨枝禅林",
+      "location": {
+        "lat": 30.007325,
+        "lng": 122.395622
+      },
+      "address": "舟山市普陀区山法雨路9号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "fd007c5e15e62e6fa8f729f1",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.3956230103,
+          "lat": 30.007323267164
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=fd007c5e15e62e6fa8f729f1&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "4",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "a5097bfa3e2a5362f03cbace"
+      }
+    },
+    {
+      "name": "中国灯塔博物馆",
+      "location": {
+        "lat": 30.255995,
+        "lng": 122.23286
+      },
+      "address": "舟山市岱山县长剑大道201号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "岱山县",
+      "street_id": "beabdbf455018d9b7069d3f3",
+      "telephone": "(0580)4962877",
+      "detail": 1,
+      "uid": "beabdbf455018d9b7069d3f3",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;博物馆",
+        "tag": "旅游景点;博物馆",
+        "navi_location": {
+          "lng": 122.23327421379,
+          "lat": 30.255942038933
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=beabdbf455018d9b7069d3f3&output=html&source=placeapi_v2",
+        "overall_rating": "4.6",
+        "comment_num": "10",
+        "shop_hours": "08:30-12:00,14:00-17:30",
+        "label": "景区,博物馆",
+        "children": []
+      }
+    },
+    {
+      "name": "舟山博物馆",
+      "location": {
+        "lat": 29.988599,
+        "lng": 122.21064
+      },
+      "address": "舟山市定海区海天大道610号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "定海区",
+      "street_id": "",
+      "telephone": "(0580)8230561",
+      "detail": 1,
+      "uid": "185dea18285e8e5800ec01af",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;博物馆",
+        "tag": "旅游景点;博物馆",
+        "navi_location": {
+          "lng": 122.20917117137,
+          "lat": 29.988488626227
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=185dea18285e8e5800ec01af&output=html&source=placeapi_v2",
+        "overall_rating": "4.5",
+        "comment_num": "13",
+        "shop_hours": "09:00-16:00",
+        "label": "景区,博物馆",
+        "children": []
+      }
+    },
+    {
+      "name": "小洋山观光平台",
+      "location": {
+        "lat": 30.635511,
+        "lng": 122.073436
+      },
+      "address": "浙江省舟山市嵊泗县观海东路",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "6e6c45f4ec39d51c07fef52f",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.07344861372,
+          "lat": 30.635223324478
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=6e6c45f4ec39d51c07fef52f&output=html&source=placeapi_v2",
+        "overall_rating": "3.0",
+        "comment_num": "6",
+        "shop_hours": "00:00-24:00",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "普陀讲寺",
+      "location": {
+        "lat": 29.933891,
+        "lng": 122.402268
+      },
+      "address": "舟山市普陀区朱樟线附近中国佛学院普陀山学院内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "7d697a103f0d262563685896",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "new_alias": "普陀禅寺",
+        "tag": "旅游景点;寺庙",
+        "navi_location": {
+          "lng": 122.40235038497,
+          "lat": 29.93348078765
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=7d697a103f0d262563685896&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "000d478fb3962436d8131886"
+      }
+    },
+    {
+      "name": "洋山深水港观光游览区-观港亭",
+      "location": {
+        "lat": 30.644769,
+        "lng": 122.067708
+      },
+      "address": "舟山市嵊泗县小洋山洋山石龙景区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "45517c99b851181d14b54b69",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.06641019444,
+          "lat": 30.644918348778
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=45517c99b851181d14b54b69&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "1",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "震旦第一佛国",
+      "location": {
+        "lat": 29.993566,
+        "lng": 122.395759
+      },
+      "address": "舟山市普陀区梅岑路1号普陀山风景名胜区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "713d827a337597381df74d9c",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=713d827a337597381df74d9c&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "a5097bfa3e2a5362f03cbace"
+      }
+    },
+    {
+      "name": "北安公园",
+      "location": {
+        "lat": 29.954731,
+        "lng": 122.309164
+      },
+      "address": "浙江省舟山市普陀区沈家门新街195号以北附近",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "street_id": "",
+      "detail": 1,
+      "uid": "de4b27e53063370f9cec2b7e",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;公园",
+        "tag": "旅游景点;公园",
+        "navi_location": {
+          "lng": 122.3095889971,
+          "lat": 29.954637073111
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=de4b27e53063370f9cec2b7e&output=html&source=placeapi_v2",
+        "overall_rating": "0",
+        "comment_num": "2",
+        "shop_hours": "00:00-24:00",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "五雷寺",
+      "location": {
+        "lat": 30.089328,
+        "lng": 122.119423
+      },
+      "address": "浙江省舟山市定海区干览镇五雷寺",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "定海区",
+      "detail": 1,
+      "uid": "533511c31cd331ef9222e02d",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "new_alias": "五雷禅寺",
+        "tag": "旅游景点;寺庙",
+        "navi_location": {
+          "lng": 122.12016580227,
+          "lat": 30.088886197475
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=533511c31cd331ef9222e02d&output=html&source=placeapi_v2",
+        "overall_rating": "4.8",
+        "comment_num": "5",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "海滨公园",
+      "location": {
+        "lat": 30.010197,
+        "lng": 122.117482
+      },
+      "address": "浙江省舟山市定海区和平路与沿港东路交叉口南100米",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "定海区",
+      "street_id": "",
+      "detail": 1,
+      "uid": "6a099061c9aa82e5ae080f50",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;公园",
+        "new_alias": "定海公园-海滨公园(人民南路);海滨公园(沿港东路)",
+        "tag": "旅游景点;公园",
+        "navi_location": {
+          "lng": 122.11504345741,
+          "lat": 30.011792800127
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=6a099061c9aa82e5ae080f50&output=html&source=placeapi_v2",
+        "overall_rating": "3.5",
+        "comment_num": "11",
+        "shop_hours": "00:00-24:00",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "大悲山",
+      "location": {
+        "lat": 30.711678,
+        "lng": 122.500714
+      },
+      "address": "舟山市嵊泗县五龙乡田岙村高大线",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "street_id": "",
+      "detail": 1,
+      "uid": "205ca63cf5ceccaeea12e44b",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "new_alias": "舟山嵊泗列岛风景名胜区-大悲山景区",
+        "tag": "旅游景点;寺庙",
+        "navi_location": {
+          "lng": 122.50764566533,
+          "lat": 30.713059293167
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=205ca63cf5ceccaeea12e44b&output=html&source=placeapi_v2",
+        "overall_rating": "4.2",
+        "comment_num": "11",
+        "shop_hours": "07:30-17:30",
+        "label": "景区,旅游景点",
+        "children": [],
+        "parent_id": "c2fd07fb607ee01f6cc02ca7"
+      }
+    },
+    {
+      "name": "山海奇观",
+      "location": {
+        "lat": 30.711195,
+        "lng": 122.787916
+      },
+      "address": "舟山市嵊泗县嵊山枸杞景区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "0523a1413b45851eb23c81ed",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=0523a1413b45851eb23c81ed&output=html&source=placeapi_v2",
+        "overall_rating": "4.2",
+        "comment_num": "14",
+        "shop_hours": "00:00-24:00",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "cb358b8b5068d4aa2902e193"
+      }
+    },
+    {
+      "name": "关帝殿",
+      "location": {
+        "lat": 30.009346,
+        "lng": 122.399981
+      },
+      "address": "普陀区普陀山风景名胜区-法雨禅寺内(北侧)",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)6690480",
+      "detail": 1,
+      "uid": "1740007b1bbc322a3a13fdcc",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "new_alias": "普陀山风景名胜区-关帝殿",
+        "tag": "旅游景点;寺庙",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=1740007b1bbc322a3a13fdcc&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "d0b8923fa2ed76e1b5f42ff1"
+      }
+    },
+    {
+      "name": "沙龙沙滩旅游景点",
+      "location": {
+        "lat": 30.46527,
+        "lng": 122.378193
+      },
+      "address": "浙江省舟山市岱山县沙冷线与四石线交叉口东北约180米",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "岱山县",
+      "detail": 1,
+      "uid": "495552a2a252ccaa49cc4aa0",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.37777258838,
+          "lat": 30.46518654503
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=495552a2a252ccaa49cc4aa0&output=html&source=placeapi_v2",
+        "overall_rating": "2.7",
+        "comment_num": "4",
+        "shop_hours": "00:00-24:00",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "中国海防博物馆",
+      "location": {
+        "lat": 30.332674,
+        "lng": 122.23145
+      },
+      "address": "浙江省舟山市岱山县岱东镇黄嘴头东南面沿海地带",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "岱山县",
+      "telephone": "(0580)7667570",
+      "detail": 1,
+      "uid": "a5ef680f08f6e3d4b9df8fe9",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;博物馆",
+        "tag": "旅游景点;博物馆",
+        "navi_location": {
+          "lng": 122.23143294823,
+          "lat": 30.332772288754
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=a5ef680f08f6e3d4b9df8fe9&output=html&source=placeapi_v2",
+        "overall_rating": "4.0",
+        "comment_num": "5",
+        "shop_hours": "08:45-12:00,14:00-17:30",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "55aad57131dac08f08f5eb33"
+      }
+    },
+    {
+      "name": "嵊泗县博物馆",
+      "location": {
+        "lat": 30.718247,
+        "lng": 122.475457
+      },
+      "address": "浙江省舟山市嵊泗县菜园镇基湖村十里金滩特色小镇会客厅",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "608c1a1946653b580bf5ebe3",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;博物馆",
+        "tag": "旅游景点;博物馆",
+        "navi_location": {
+          "lng": 122.47516777906,
+          "lat": 30.718414209985
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=608c1a1946653b580bf5ebe3&output=html&source=placeapi_v2",
+        "overall_rating": "0",
+        "comment_num": "1",
+        "shop_hours": "08:30-11:00,14:00-16:30",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "慧云寺",
+      "location": {
+        "lat": 30.03149,
+        "lng": 122.250016
+      },
+      "address": "浙江省舟山市定海区临城街道高峰两高线慧云禅寺",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "定海区",
+      "detail": 1,
+      "uid": "8ab0dfc46f47c06bd8ecedee",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "new_alias": "慧云禅寺",
+        "tag": "旅游景点;寺庙",
+        "navi_location": {
+          "lng": 122.2492265262,
+          "lat": 30.03050845666
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=8ab0dfc46f47c06bd8ecedee&output=html&source=placeapi_v2",
+        "overall_rating": "3.7",
+        "comment_num": "4",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "洋山深水港观光游览区-观音石像",
+      "location": {
+        "lat": 30.646447,
+        "lng": 122.07202
+      },
+      "address": "舟山市嵊泗县小洋山洋山石龙景区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "ae0d38d8aac5c0834f6d4601",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.07212546638,
+          "lat": 30.645009304876
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=ae0d38d8aac5c0834f6d4601&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "1",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "朱家尖-大乘庵",
+      "location": {
+        "lat": 29.932177,
+        "lng": 122.409783
+      },
+      "address": "舟山市普陀区岩厂路与朱樟线交叉路口往东北约280米",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)6031033",
+      "detail": 1,
+      "uid": "57908feb9e403e699b68b435",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "tag": "旅游景点;寺庙",
+        "navi_location": {
+          "lng": 122.40974785802,
+          "lat": 29.931990868678
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=57908feb9e403e699b68b435&output=html&source=placeapi_v2",
+        "overall_rating": "3",
+        "comment_num": "2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "碧海金沙",
+      "location": {
+        "lat": 30.719093,
+        "lng": 122.47653
+      },
+      "address": "舟山市嵊泗县菜园镇基湖村方姜北弄10号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "street_id": "",
+      "detail": 1,
+      "uid": "a74481d648087045f403b89d",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.47590547426,
+          "lat": 30.719151386789
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=a74481d648087045f403b89d&output=html&source=placeapi_v2",
+        "overall_rating": "4",
+        "comment_num": "2",
+        "shop_hours": "00:00-24:00",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "c2fd07fb607ee01f6cc02ca7"
+      }
+    },
+    {
+      "name": "宝月庵",
+      "location": {
+        "lat": 30.012159,
+        "lng": 122.406766
+      },
+      "address": "舟山市普陀区普陀山风景区内翔凤峰下",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "ff9cc11b1c3b280bca09f054",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "tag": "旅游景点;寺庙",
+        "navi_location": {
+          "lng": 122.40671590028,
+          "lat": 30.012581775302
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=ff9cc11b1c3b280bca09f054&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "a5097bfa3e2a5362f03cbace"
+      }
+    },
+    {
+      "name": "海月常辉",
+      "location": {
+        "lat": 29.990478,
+        "lng": 122.393471
+      },
+      "address": "舟山市普陀区梅岑路(白华山南侧)普济禅寺内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "fcaa4bbda18ea4f49b68b4bd",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.39112031007,
+          "lat": 29.990610010188
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=fcaa4bbda18ea4f49b68b4bd&output=html&source=placeapi_v2",
+        "overall_rating": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "09185c565226fe20f11937ef"
+      }
+    },
+    {
+      "name": "普贤殿",
+      "location": {
+        "lat": 29.991689,
+        "lng": 122.392929
+      },
+      "address": "舟山市普陀区香华街15号普济禅寺内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "c3b4f1a1ff2ffde4441a32c4",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "tag": "旅游景点;寺庙",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=c3b4f1a1ff2ffde4441a32c4&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "09185c565226fe20f11937ef"
+      }
+    },
+    {
+      "name": "基湖海滨浴场",
+      "location": {
+        "lat": 30.718782,
+        "lng": 122.476524
+      },
+      "address": "浙江省舟山市嵊泗县G526(金沙路)",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "street_id": "351bf5debce6a6d23517dc6d",
+      "detail": 1,
+      "uid": "351bf5debce6a6d23517dc6d",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;海滨浴场",
+        "tag": "旅游景点;海滨浴场",
+        "navi_location": {
+          "lng": 122.47646749484,
+          "lat": 30.71909601792
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=351bf5debce6a6d23517dc6d&output=html&source=placeapi_v2",
+        "shop_hours": "13:00-02:00",
+        "label": "旅游景点 海滨浴场",
+        "children": [],
+        "parent_id": "b16481a59aa98f2ca11de9bb"
+      }
+    },
+    {
+      "name": "樟林休闲区",
+      "location": {
+        "lat": 29.863875,
+        "lng": 122.401103
+      },
+      "address": "舟山市普陀区普陀山朱家尖岛南端朱家尖大青山国家公园里沙生态园内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "e959169e01fab5729d82ea5d",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=e959169e01fab5729d82ea5d&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "1",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "beabdbf4551c8d9b7069d3ec"
+      }
+    },
+    {
+      "name": "小沙旅游区",
+      "location": {
+        "lat": 30.126765,
+        "lng": 122.072474
+      },
+      "address": "舟山市定海区陈家路小沙初中西侧约240米",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "定海区",
+      "street_id": "f60a15edc423b7efbb17e7f1",
+      "detail": 1,
+      "uid": "f60a15edc423b7efbb17e7f1",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.0722709873,
+          "lat": 30.126813426542
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=f60a15edc423b7efbb17e7f1&output=html&source=placeapi_v2",
+        "overall_rating": "1",
+        "comment_num": "1",
+        "shop_hours": "",
+        "label": "景区,古镇/古村",
+        "children": []
+      }
+    },
+    {
+      "name": "射雕英雄传旅游城-城门",
+      "location": {
+        "lat": 29.845186,
+        "lng": 122.25229
+      },
+      "address": "舟山市普陀区桃花镇桃花岛西北部大佛岩景区射雕英雄传旅游城内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "ef7822431c2e7e4dab059dbf",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "new_alias": "射雕英雄传旅游城(后门)",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.25278442721,
+          "lat": 29.844205171061
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=ef7822431c2e7e4dab059dbf&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "1",
+        "shop_hours": "07:00-16:30",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "b7021bf830d7fef9f4e73bec"
+      }
+    },
+    {
+      "name": "东海第一哨灯塔",
+      "location": {
+        "lat": 30.186789,
+        "lng": 122.696867
+      },
+      "address": "浙江省舟山市普陀区东极岛庙子湖岛",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "street_id": "bcc4a7b18a92c424fea77825",
+      "detail": 1,
+      "uid": "bcc4a7b18a92c424fea77825",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;人文景观;文物古迹;塔",
+        "tag": "旅游景点;文物古迹",
+        "navi_location": {
+          "lng": 122.69579314571,
+          "lat": 30.185038345835
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=bcc4a7b18a92c424fea77825&output=html&source=placeapi_v2",
+        "overall_rating": "3.4",
+        "comment_num": "11",
+        "shop_hours": "00:00-24:00",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "a74481d61d983b5ff503b86b"
+      }
+    },
+    {
+      "name": "嵊泗海岛公园",
+      "location": {
+        "lat": 30.708933,
+        "lng": 122.541458
+      },
+      "address": "舟山市嵊泗县朝阳南路嵊泗列岛风景名胜区",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "38e58203b3b306810e0e6bb6",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;公园",
+        "tag": "旅游景点;公园",
+        "navi_location": {
+          "lng": 122.54028515165,
+          "lat": 30.707779709124
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=38e58203b3b306810e0e6bb6&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "",
+        "children": [],
+        "parent_id": "c2fd07fb607ee01f6cc02ca7"
+      }
+    },
+    {
+      "name": "昙华禅寺",
+      "location": {
+        "lat": 29.927158,
+        "lng": 122.349371
+      },
+      "address": "浙江省舟山市普陀区朱家尖街道204县道南300米",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)6031033",
+      "detail": 1,
+      "uid": "3be122e115fe67511ef74de5",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "tag": "旅游景点;寺庙",
+        "navi_location": {
+          "lng": 122.34928792048,
+          "lat": 29.927271030503
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=3be122e115fe67511ef74de5&output=html&source=placeapi_v2",
+        "overall_rating": "4",
+        "comment_num": "3",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "97eb88c3414c34f18a36ee31"
+      }
+    },
+    {
+      "name": "玻璃观景平台",
+      "location": {
+        "lat": 30.708494,
+        "lng": 122.541582
+      },
+      "address": "菜园镇和尚套景区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "804fa789c3e9b908f03cbafb",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.54028515165,
+          "lat": 30.707779709124
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=804fa789c3e9b908f03cbafb&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "3",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "be520063a568b74c08ccddf2"
+      }
+    },
+    {
+      "name": "息来禅院",
+      "location": {
+        "lat": 29.990781,
+        "lng": 122.392238
+      },
+      "address": "浙江省舟山市普陀区香华街1号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "d08a3c5748ad852185420ee2",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "new_alias": "普陀山风景名胜区-息耒禅院",
+        "tag": "旅游景点;寺庙",
+        "navi_location": {
+          "lng": 122.39131930091,
+          "lat": 29.990160718924
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=d08a3c5748ad852185420ee2&output=html&source=placeapi_v2",
+        "overall_rating": "4",
+        "comment_num": "4",
+        "shop_hours": "06:00-17:00",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "09185c565226fe20f11937ef"
+      }
+    },
+    {
+      "name": "澹澹亭",
+      "location": {
+        "lat": 29.984245,
+        "lng": 122.401015
+      },
+      "address": "舟山市普陀区山东南部的梅檀岭下紫竹林中内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "07c7d439ef96b1f7ab175a4e",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.39877918919,
+          "lat": 29.983624932096
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=07c7d439ef96b1f7ab175a4e&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "4",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "cb4fd146292a773c9d9d6839"
+      }
+    },
+    {
+      "name": "南和庙",
+      "location": {
+        "lat": 29.890257,
+        "lng": 122.408812
+      },
+      "address": "舟山市普陀区金沙大道与梅岭路交叉路口往西南约170米",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "0f1bdc61eadb0d6a4354d717",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;人文景观;文物古迹",
+        "tag": "旅游景点;文物古迹",
+        "navi_location": {
+          "lng": 122.40894802544,
+          "lat": 29.890214897468
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=0f1bdc61eadb0d6a4354d717&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "旅游景点 寺庙 人文景观 文物古迹",
+        "children": [],
+        "parent_id": "97eb88c3414c34f18a36ee31"
+      }
+    },
+    {
+      "name": "国际海岛旅游大会永久会址",
+      "location": {
+        "lat": 29.888427,
+        "lng": 122.419202
+      },
+      "address": "舟山市普陀区南沙度假村路609号璞缇海酒店旁",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "street_id": "a6837713625b175aab0dd81a",
+      "telephone": "(0580)6031033",
+      "detail": 1,
+      "uid": "a6837713625b175aab0dd81a",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.41941837875,
+          "lat": 29.888343042882
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=a6837713625b175aab0dd81a&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "露营俱乐部",
+      "location": {
+        "lat": 29.900474,
+        "lng": 122.378091
+      },
+      "address": "浙江省舟山市普陀区舟山海洋运动休闲中心东185米",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "e0867bf5245caa0e1f3894b7",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;露营地",
+        "tag": "旅游景点;其他",
+        "navi_location": {
+          "lng": 122.3781493165,
+          "lat": 29.90006970742
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=e0867bf5245caa0e1f3894b7&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "旅游景点 露营地",
+        "children": [],
+        "parent_id": "97eb88c3414c34f18a36ee31"
+      }
+    },
+    {
+      "name": "观音宝殿",
+      "location": {
+        "lat": 30.017516,
+        "lng": 122.396397
+      },
+      "address": "舟山市普陀区普陀山国家级风景名胜区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "27444316462b56fa1811d531",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "tag": "旅游景点;寺庙",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=27444316462b56fa1811d531&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "0ce65c2da1f0b35a2d4733f1"
+      }
+    },
+    {
+      "name": "东极历史文化博物馆",
+      "location": {
+        "lat": 30.199163,
+        "lng": 122.692012
+      },
+      "address": "浙江省舟山市普陀区子湖中街东极旅游服务中心隔壁",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "street_id": "205abb8f4ede02b54e2fdf90",
+      "telephone": "15924002274",
+      "detail": 1,
+      "uid": "205abb8f4ede02b54e2fdf90",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;博物馆",
+        "tag": "旅游景点;博物馆",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=205abb8f4ede02b54e2fdf90&output=html&source=placeapi_v2",
+        "overall_rating": "4.3",
+        "comment_num": "1",
+        "shop_hours": "08:00-11:00,13:30-17:00",
+        "label": "景区,博物馆",
+        "children": [],
+        "parent_id": "89fd4ea3eb1e5544e5e965f3"
+      }
+    },
+    {
+      "name": "慧锷和尚像",
+      "location": {
+        "lat": 30.00199,
+        "lng": 122.347171
+      },
+      "address": "莲花洋畔的塘头村莲花岛雕塑公园",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "6319627aa3abf9d05b10932a",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.3459650815,
+          "lat": 30.002808784567
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=6319627aa3abf9d05b10932a&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "",
+        "children": [],
+        "parent_id": "0f729212954dd220f4eafcb2"
+      }
+    },
+    {
+      "name": "舟山新区旅游",
+      "location": {
+        "lat": 30.055499,
+        "lng": 122.009287
+      },
+      "address": "浙江省舟山市定海区舟山跨海大桥有限公司大桥管理处舟山收费管理中心所北侧210米",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "定海区",
+      "street_id": "2c266fdacdd36d01631c67a9",
+      "detail": 1,
+      "uid": "2c266fdacdd36d01631c67a9",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.0104942429,
+          "lat": 30.054167079684
+        },
+        "type": "enterprise",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=2c266fdacdd36d01631c67a9&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "旅游景点",
+        "children": []
+      }
+    },
+    {
+      "name": "舟山嵊泗列岛风景名胜区-地藏殿",
+      "location": {
+        "lat": 30.71095,
+        "lng": 122.501554
+      },
+      "address": "舟山市嵊泗县大悲山景区灵音禅寺内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "street_id": "9f217dbcd96186d7ad31e577",
+      "detail": 1,
+      "uid": "9f217dbcd96186d7ad31e577",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "new_alias": "舟山嵊泗列岛风景名胜区-地藏殿",
+        "tag": "旅游景点;寺庙",
+        "navi_location": {
+          "lng": 122.50138163837,
+          "lat": 30.710836986032
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=9f217dbcd96186d7ad31e577&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "c2fd07fb607ee01f6cc02ca7"
+      }
+    },
+    {
+      "name": "白沙岛观日台",
+      "location": {
+        "lat": 29.942559,
+        "lng": 122.462186
+      },
+      "address": "舟山市普陀区舟山岛居白沙海景民宿东北侧",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "b141652c514dd7e0af045759",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.46221365157,
+          "lat": 29.942492972328
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=b141652c514dd7e0af045759&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "旅游景点",
+        "children": [],
+        "parent_id": "01d8ff4b7095a04d88db732e"
+      }
+    },
+    {
+      "name": "观澜亭",
+      "location": {
+        "lat": 30.008155,
+        "lng": 122.423302
+      },
+      "address": "舟山市普陀区梅岑路1号普陀山风景名胜区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "a41022e357828ea40b1cc765",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.42318535894,
+          "lat": 30.008046809931
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=a41022e357828ea40b1cc765&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "a5097bfa3e2a5362f03cbace"
+      }
+    },
+    {
+      "name": "舟山桃花岛风景旅游区-积翠亭",
+      "location": {
+        "lat": 29.844429,
+        "lng": 122.251393
+      },
+      "address": "舟山市普陀区桃花镇桃花岛西北部大佛岩景区射雕英雄传旅游城内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "d2d445d1d5c76d95932ca397",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "new_alias": "舟山桃花岛风景旅游区-积翠亭",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.2522832202,
+          "lat": 29.845104594781
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=d2d445d1d5c76d95932ca397&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "b7021bf830d7fef9f4e73bec"
+      }
+    },
+    {
+      "name": "莲兴碶门潭",
+      "location": {
+        "lat": 29.934808,
+        "lng": 122.390715
+      },
+      "address": "舟山市普陀区朱乌线",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "8746209dde66461cf82213cd",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=8746209dde66461cf82213cd&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "97eb88c3414c34f18a36ee31"
+      }
+    },
+    {
+      "name": "积庆禅寺",
+      "location": {
+        "lat": 30.671716,
+        "lng": 122.568956
+      },
+      "address": "浙江省舟山市嵊泗县",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "32f57a5f1163ecb76fa3cc41",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "tag": "旅游景点;寺庙",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=32f57a5f1163ecb76fa3cc41&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "鉴真东渡",
+      "location": {
+        "lat": 30.710182,
+        "lng": 122.504572
+      },
+      "address": "浙江省舟山市嵊泗县列岛风景名胜区鉴真东渡(五马线东)",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "street_id": "cf040f23502b32298adb7346",
+      "detail": 1,
+      "uid": "cf040f23502b32298adb7346",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;人文景观;文物古迹",
+        "tag": "旅游景点;文物古迹",
+        "navi_location": {
+          "lng": 122.50428401968,
+          "lat": 30.710396861173
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=cf040f23502b32298adb7346&output=html&source=placeapi_v2",
+        "overall_rating": "3",
+        "comment_num": "2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "c2fd07fb607ee01f6cc02ca7"
+      }
+    },
+    {
+      "name": "古禅林",
+      "location": {
+        "lat": 30.106722,
+        "lng": 122.137118
+      },
+      "address": "浙江省舟山市定海区干平线",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "定海区",
+      "telephone": "13957211458",
+      "detail": 1,
+      "uid": "e1e9a50c0980b11fb21e363e",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.1371404743,
+          "lat": 30.106790807727
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=e1e9a50c0980b11fb21e363e&output=html&source=placeapi_v2",
+        "shop_hours": "08:00-17:00",
+        "label": "旅游景点",
+        "children": []
+      }
+    },
+    {
+      "name": "弥陀院",
+      "location": {
+        "lat": 29.935635,
+        "lng": 122.402749
+      },
+      "address": "舟山市普陀区朱樟线附近中国佛学院普陀山学院内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "1d0008a0eba5773607026feb",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "tag": "旅游景点;寺庙",
+        "navi_location": {
+          "lng": 122.40277529165,
+          "lat": 29.935519024899
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=1d0008a0eba5773607026feb&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "1",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "000d478fb3962436d8131886"
+      }
+    },
+    {
+      "name": "洋山深水港观光游览区-同心石",
+      "location": {
+        "lat": 30.648653,
+        "lng": 122.077994
+      },
+      "address": "舟山市嵊泗县小洋山洋山石龙景区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "f59eb4c5f8ac3175a80dd885",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "new_alias": "洋山深水港观光游览区-同心石",
+        "tag": "旅游景点",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=f59eb4c5f8ac3175a80dd885&output=html&source=placeapi_v2",
+        "overall_rating": "0.0",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "蝴蝶岛",
+      "location": {
+        "lat": 30.814835,
+        "lng": 122.744078
+      },
+      "address": "舟山市嵊泗县",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "d146b388e40f6add740269ec",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=d146b388e40f6add740269ec&output=html&source=placeapi_v2",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "三圣宝殿",
+      "location": {
+        "lat": 30.007342,
+        "lng": 122.414364
+      },
+      "address": "舟山市普陀区法音路205号祥慧净院内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "586580b1ba5587c3ca1b9544",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "tag": "旅游景点;寺庙",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=586580b1ba5587c3ca1b9544&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "bb1d38e4a531034e0d0a7098"
+      }
+    },
+    {
+      "name": "洋山深水港观光游览区-元宝石",
+      "location": {
+        "lat": 30.64637,
+        "lng": 122.073987
+      },
+      "address": "舟山市嵊泗县小洋山洋山石龙景区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "9b41800d58abd3a082a12ed3",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "new_alias": "洋山深水港观光游览区-元宝石",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.07272845919,
+          "lat": 30.644618104428
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=9b41800d58abd3a082a12ed3&output=html&source=placeapi_v2",
+        "overall_rating": "4.0",
+        "shop_hours": "00:00-24:00",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "自在亭",
+      "location": {
+        "lat": 29.99057,
+        "lng": 122.398203
+      },
+      "address": "舟山市普陀区普济路312号百步沙休闲园内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "e2c8df9fb8a7a5e1283a9f54",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=e2c8df9fb8a7a5e1283a9f54&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "3",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "1565de8f3adf72efa0d23089"
+      }
+    },
+    {
+      "name": "崇兴宫",
+      "location": {
+        "lat": 29.927094,
+        "lng": 122.427896
+      },
+      "address": "普陀区朱樟线",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "7c0bbf2e323633e371210b8f",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;人文景观;文物古迹",
+        "tag": "旅游景点;其他",
+        "navi_location": {
+          "lng": 122.42770933916,
+          "lat": 29.927489625208
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=7c0bbf2e323633e371210b8f&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "97eb88c3414c34f18a36ee31"
+      }
+    },
+    {
+      "name": "伽蓝殿",
+      "location": {
+        "lat": 29.974428,
+        "lng": 122.455435
+      },
+      "address": "舟山市普陀区洛迦山景区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "b3ff6a1aa93632fb96ec84d9",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;人文景观;文物古迹",
+        "new_alias": "洛迦山景区-伽蓝殿",
+        "tag": "旅游景点;文物古迹",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=b3ff6a1aa93632fb96ec84d9&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "57b5110269cd6257e81e97f6"
+      }
+    },
+    {
+      "name": "水上三轮车",
+      "location": {
+        "lat": 29.881748,
+        "lng": 122.415092
+      },
+      "address": "舟山市普陀区朱家尖镇朱家尖南沙风景区舟山朱家尖国际沙雕艺术广场内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "a8e2340ba10b12d141e19242",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.41315978702,
+          "lat": 29.883266748432
+        },
+        "type": "life",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=a8e2340ba10b12d141e19242&output=html&source=placeapi_v2",
+        "overall_rating": "4",
+        "image_num": "1",
+        "comment_num": "2",
+        "shop_hours": "",
+        "label": "旅游景点",
+        "children": [],
+        "parent_id": "373cf757611c256d4354d7ec"
+      }
+    },
+    {
+      "name": "洋山深水港观光游览区-观桥亭",
+      "location": {
+        "lat": 30.645873,
+        "lng": 122.069747
+      },
+      "address": "舟山市嵊泗县小洋山洋山石龙景区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "395629d8c896b4dcb64f5499",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "new_alias": "洋山深水港观光游览区-观桥亭",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.07144236608,
+          "lat": 30.644860965722
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=395629d8c896b4dcb64f5499&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "comment_num": "1",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "水上观音",
+      "location": {
+        "lat": 29.974366,
+        "lng": 122.456044
+      },
+      "address": "舟山市普陀区洛迦山景区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)6698520",
+      "detail": 1,
+      "uid": "f547c6cf5a38e709c9c3db13",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;人文景观;文物古迹",
+        "new_alias": "洛迦山景区-水上观音",
+        "tag": "旅游景点;文物古迹",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=f547c6cf5a38e709c9c3db13&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "57b5110269cd6257e81e97f6"
+      }
+    },
+    {
+      "name": "登步岛农业观光园旅游驿站",
+      "location": {
+        "lat": 29.877451,
+        "lng": 122.308894
+      },
+      "address": "浙江省舟山市普陀区大永路登步岛西入口",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "f8de47dfe2a018a22b201a92",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=f8de47dfe2a018a22b201a92&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "旅游景点",
+        "children": []
+      }
+    },
+    {
+      "name": "妙善老和尚纪念堂",
+      "location": {
+        "lat": 29.993698,
+        "lng": 122.39504
+      },
+      "address": "舟山市普陀区梅岑路1号普陀山风景名胜区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "3d0d4402f09cd66a1df74dad",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;纪念馆",
+        "tag": "旅游景点;博物馆",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=3d0d4402f09cd66a1df74dad&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "a5097bfa3e2a5362f03cbace"
+      }
+    },
+    {
+      "name": "梵山亭",
+      "location": {
+        "lat": 29.98927,
+        "lng": 122.393938
+      },
+      "address": "舟山市普陀区梅芩路115号普陀山国家级风景名胜区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)3191919",
+      "detail": 1,
+      "uid": "edd64ce1b116eeec3fe231ef",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.3938467733,
+          "lat": 29.989367757687
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=edd64ce1b116eeec3fe231ef&output=html&source=placeapi_v2",
+        "overall_rating": "0.0",
+        "shop_hours": "00:00-24:00",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "a5097bfa3e2a5362f03cbace"
+      }
+    },
+    {
+      "name": "射雕英雄传旅游城-射箭场",
+      "location": {
+        "lat": 29.845393,
+        "lng": 122.252346
+      },
+      "address": "舟山市普陀区桃花镇桃花岛西北部大佛岩景区射雕英雄传旅游城内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "7e0afab0543612e0ab0dd8af",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.25278442721,
+          "lat": 29.844205171061
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=7e0afab0543612e0ab0dd8af&output=html&source=placeapi_v2",
+        "overall_rating": "1",
+        "comment_num": "1",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "b7021bf830d7fef9f4e73bec"
+      }
+    },
+    {
+      "name": "嵊泗抗战纪念馆",
+      "location": {
+        "lat": 30.708796,
+        "lng": 122.51232
+      },
+      "address": "浙江省舟山市嵊泗县五龙乡黄沙村村口沙滩口",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "2898dee447e9cd633a04b1ba",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;纪念馆;战争纪念馆",
+        "tag": "旅游景点;博物馆",
+        "navi_location": {
+          "lng": 122.51228063525,
+          "lat": 30.70882437657
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=2898dee447e9cd633a04b1ba&output=html&source=placeapi_v2",
+        "overall_rating": "0.0",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "1fbb37902665d6650d3ddac1"
+      }
+    },
+    {
+      "name": "洋山深水港观光游览区-鹰击长空",
+      "location": {
+        "lat": 30.64129,
+        "lng": 122.068633
+      },
+      "address": "小洋山洋山石龙景区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "2c437af1882547830d0a70a5",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "new_alias": "洋山深水港观光游览区-鹰击长空",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.07272825984,
+          "lat": 30.644614308607
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=2c437af1882547830d0a70a5&output=html&source=placeapi_v2",
+        "overall_rating": "0",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "普陀山风景名胜区-白华园",
+      "location": {
+        "lat": 29.984215,
+        "lng": 122.383867
+      },
+      "address": "浙江省舟山市普陀区梅芩路115号普陀山",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)3191919",
+      "detail": 1,
+      "uid": "56e88cbacf12c718a4c75639",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;公园",
+        "new_alias": "普陀山风景名胜区-白华园",
+        "tag": "旅游景点;公园",
+        "navi_location": {
+          "lng": 122.38374848718,
+          "lat": 29.984099302327
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=56e88cbacf12c718a4c75639&output=html&source=placeapi_v2",
+        "overall_rating": "0",
+        "comment_num": "1",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "a5097bfa3e2a5362f03cbace"
+      }
+    },
+    {
+      "name": "功德堂",
+      "location": {
+        "lat": 30.008414,
+        "lng": 122.400296
+      },
+      "address": "普陀区普陀山风景名胜区-法雨禅寺内(东侧)",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)6690480",
+      "detail": 1,
+      "uid": "00e924ee4dffa11fbbbd632c",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;人文景观;文物古迹",
+        "new_alias": "普陀山风景名胜区-功德堂",
+        "tag": "旅游景点;文物古迹",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=00e924ee4dffa11fbbbd632c&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "d0b8923fa2ed76e1b5f42ff1"
+      }
+    },
+    {
+      "name": "行愿楼",
+      "location": {
+        "lat": 29.933345,
+        "lng": 122.400777
+      },
+      "address": "舟山市普陀区朱樟线附近中国佛学院普陀山学院内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "834379ac3126e8c5d22dd6f3",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.40225349778,
+          "lat": 29.933461391633
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=834379ac3126e8c5d22dd6f3&output=html&source=placeapi_v2",
+        "overall_rating": "0.0",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "000d478fb3962436d8131886"
+      }
+    },
+    {
+      "name": "舟山乡村善治学堂-旅游驿站",
+      "location": {
+        "lat": 30.117972,
+        "lng": 122.098661
+      },
+      "address": "舟山市定海区平马线舟山村回未见海度假民宿西南侧约140米",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "定海区",
+      "detail": 1,
+      "uid": "b6a476d571684c59c0364420",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "type": "life",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=b6a476d571684c59c0364420&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "旅游景点",
+        "children": []
+      }
+    },
+    {
+      "name": "洋山深水港观光游览区-神龟望海",
+      "location": {
+        "lat": 30.646284,
+        "lng": 122.073448
+      },
+      "address": "舟山市嵊泗县小洋山洋山石龙景区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "366e6b50b9172c9508ccdd34",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "new_alias": "洋山深水港观光游览区-神龟望海",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.0724199013,
+          "lat": 30.644873838829
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=366e6b50b9172c9508ccdd34&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "渔家荷塘",
+      "location": {
+        "lat": 30.713483,
+        "lng": 122.510007
+      },
+      "address": "舟山市嵊泗县东海渔村内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "street_id": "d149f582baa02ebc1811d5fa",
+      "detail": 1,
+      "uid": "d149f582baa02ebc1811d5fa",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "new_alias": "舟山嵊泗列岛风景名胜区-渔家荷塘",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.51011712036,
+          "lat": 30.713048213571
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=d149f582baa02ebc1811d5fa&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "c2fd07fb607ee01f6cc02ca7"
+      }
+    },
+    {
+      "name": "幽篁里",
+      "location": {
+        "lat": 29.93159,
+        "lng": 122.39439
+      },
+      "address": "舟山市普陀区香莲路(朱家尖)普陀山观音法界观音公园",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "5d042dbca7dfcf0a3517dcac",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.39425713863,
+          "lat": 29.931953146641
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=5d042dbca7dfcf0a3517dcac&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "",
+        "children": [],
+        "parent_id": "fd127d6c73e2b3133c9a5eb9"
+      }
+    },
+    {
+      "name": "净玉台",
+      "location": {
+        "lat": 29.9299,
+        "lng": 122.393021
+      },
+      "address": "舟山市普陀区香莲路(朱家尖)普陀山观音法界观音公园",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "a71933cf43350387c7f025f6",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.39269627343,
+          "lat": 29.929793598359
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=a71933cf43350387c7f025f6&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "",
+        "children": [],
+        "parent_id": "fd127d6c73e2b3133c9a5eb9"
+      }
+    },
+    {
+      "name": "洗心台",
+      "location": {
+        "lat": 29.928946,
+        "lng": 122.395854
+      },
+      "address": "舟山市普陀区香莲路(朱家尖)普陀山观音法界观音公园",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "886833d0d947d09f04fef564",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.39582427821,
+          "lat": 29.9286196562
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=886833d0d947d09f04fef564&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "旅游景点 自然景观 风景区",
+        "children": [],
+        "parent_id": "fd127d6c73e2b3133c9a5eb9"
+      }
+    },
+    {
+      "name": "蒋纪周烈士纪念碑",
+      "location": {
+        "lat": 30.720581,
+        "lng": 122.825057
+      },
+      "address": "舟山市嵊泗县嵊山枸杞景区",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "7ff9280f40cac32b40d63e65",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;人文景观;纪念设施;烈士陵园",
+        "tag": "旅游景点;文物古迹",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=7ff9280f40cac32b40d63e65&output=html&source=placeapi_v2",
+        "overall_rating": "0.0",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "cb358b8b5068d4aa2902e193"
+      }
+    },
+    {
+      "name": "圆通宝殿",
+      "location": {
+        "lat": 30.000111,
+        "lng": 122.396442
+      },
+      "address": "舟山市普陀区法雨路39号大乘禅院内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "e0cfaa629d533521f603b829",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "tag": "旅游景点;寺庙",
+        "navi_location": {
+          "lng": 122.39723239693,
+          "lat": 29.999706328312
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=e0cfaa629d533521f603b829&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "480b24d082aade8c9cec2b39"
+      }
+    },
+    {
+      "name": "舟山嵊泗列岛风景名胜区-圆通宝殿",
+      "location": {
+        "lat": 30.711068,
+        "lng": 122.501572
+      },
+      "address": "舟山市嵊泗县大悲山景区灵音禅寺内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "street_id": "c800f17b72226a4aabf0cd44",
+      "detail": 1,
+      "uid": "c800f17b72226a4aabf0cd44",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "new_alias": "舟山嵊泗列岛风景名胜区-圆通宝殿",
+        "tag": "旅游景点;寺庙",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=c800f17b72226a4aabf0cd44&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "c2fd07fb607ee01f6cc02ca7"
+      }
+    },
+    {
+      "name": "试剑石",
+      "location": {
+        "lat": 29.93816,
+        "lng": 122.391227
+      },
+      "address": "舟山市普陀区朱家尖镇朱家尖白山景点内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)6031033",
+      "detail": 1,
+      "uid": "602beb8caafa00f8990050ea",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.39022207516,
+          "lat": 29.936647640994
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=602beb8caafa00f8990050ea&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "f696f3c221208aea1a11d584"
+      }
+    },
+    {
+      "name": "回廊",
+      "location": {
+        "lat": 29.934688,
+        "lng": 122.402294
+      },
+      "address": "舟山市普陀区朱樟线附近中国佛学院普陀山学院内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "905bf4832d9595e442d63e08",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.40265465514,
+          "lat": 29.932822671286
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=905bf4832d9595e442d63e08&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "000d478fb3962436d8131886"
+      }
+    },
+    {
+      "name": "东郭与狼雕塑",
+      "location": {
+        "lat": 29.883611,
+        "lng": 122.415284
+      },
+      "address": "舟山市普陀区朱家尖镇朱家尖南沙风景区南沙景点内童话沙雕松林区",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "fee245d82afdcfdc2fb17e7a",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.41403611742,
+          "lat": 29.884080779621
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=fee245d82afdcfdc2fb17e7a&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "",
+        "children": []
+      }
+    },
+    {
+      "name": "圆通宝殿",
+      "location": {
+        "lat": 30.027232,
+        "lng": 122.405182
+      },
+      "address": "舟山市普陀区山海天路201号宝陀讲寺内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "95e0ac347b0f29612bd7ab62",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "tag": "旅游景点;寺庙",
+        "navi_location": {
+          "lng": 122.40415700248,
+          "lat": 30.025608874218
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=95e0ac347b0f29612bd7ab62&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "504d61133bd5b4ce46572639"
+      }
+    },
+    {
+      "name": "般若湾",
+      "location": {
+        "lat": 29.931447,
+        "lng": 122.391516
+      },
+      "address": "舟山市普陀区香莲路(朱家尖)普陀山观音法界观音公园",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "eff0d2c31cc16ed4c33644a8",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.39151956921,
+          "lat": 29.931884772122
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=eff0d2c31cc16ed4c33644a8&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "",
+        "children": [],
+        "parent_id": "fd127d6c73e2b3133c9a5eb9"
+      }
+    },
+    {
+      "name": "天梯岗墩",
+      "location": {
+        "lat": 30.746744,
+        "lng": 122.444759
+      },
+      "address": "浙江省舟山市嵊泗县李五线嵊泗列岛风景名胜区",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "street_id": "f446091834a7e769b11e36ed",
+      "detail": 1,
+      "uid": "f446091834a7e769b11e36ed",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "new_alias": "大田岗墩;舟山嵊泗列岛风景名胜区-天梯岗墩",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.44483796544,
+          "lat": 30.746702842192
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=f446091834a7e769b11e36ed&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "c2fd07fb607ee01f6cc02ca7"
+      }
+    },
+    {
+      "name": "梵山云起",
+      "location": {
+        "lat": 29.931401,
+        "lng": 122.393895
+      },
+      "address": "舟山市普陀区香莲路(朱家尖)普陀山观音法界观音公园",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "30e64b6ef8fbb34763180990",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.393814511,
+          "lat": 29.931800009713
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=30e64b6ef8fbb34763180990&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "",
+        "children": [],
+        "parent_id": "fd127d6c73e2b3133c9a5eb9"
+      }
+    },
+    {
+      "name": "关道",
+      "location": {
+        "lat": 29.937359,
+        "lng": 122.391439
+      },
+      "address": "朱家尖镇朱家尖白山景点内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)6031033",
+      "detail": 1,
+      "uid": "63b3868ab923031379b55cc9",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "new_alias": "白山景区-关道",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.38973056199,
+          "lat": 29.936430080547
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=63b3868ab923031379b55cc9&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "f696f3c221208aea1a11d584"
+      }
+    },
+    {
+      "name": "狮身人面像雕塑",
+      "location": {
+        "lat": 29.884476,
+        "lng": 122.414879
+      },
+      "address": "舟山市普陀区朱家尖镇朱家尖南沙风景区南沙景点内童话沙雕松林区",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "606a16be0b51ca7e081cc7ee",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.41403611742,
+          "lat": 29.884080779621
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=606a16be0b51ca7e081cc7ee&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "旅游景点",
+        "children": []
+      }
+    },
+    {
+      "name": "射雕英雄传旅游城-古戏台",
+      "location": {
+        "lat": 29.844186,
+        "lng": 122.249758
+      },
+      "address": "舟山市普陀区桃花镇桃花岛西北部大佛岩景区射雕英雄传旅游城内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "564a4794ca8a5c40e6e96578",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.25286284389,
+          "lat": 29.844109081379
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=564a4794ca8a5c40e6e96578&output=html&source=placeapi_v2",
+        "overall_rating": "0.0",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "b7021bf830d7fef9f4e73bec"
+      }
+    },
+    {
+      "name": "行念谷",
+      "location": {
+        "lat": 29.931098,
+        "lng": 122.394668
+      },
+      "address": "舟山市普陀区香莲路(朱家尖)普陀山观音法界观音公园",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "aca5aebb269a13072afc48fe",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.39434387192,
+          "lat": 29.931986134047
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=aca5aebb269a13072afc48fe&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "",
+        "children": [],
+        "parent_id": "fd127d6c73e2b3133c9a5eb9"
+      }
+    },
+    {
+      "name": "基督教聚会点",
+      "location": {
+        "lat": 30.196368,
+        "lng": 122.689568
+      },
+      "address": "浙江省舟山市普陀区东极岛",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "4eeef15b6f138d306140a9aa",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;教堂",
+        "tag": "旅游景点;教堂",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=4eeef15b6f138d306140a9aa&output=html&source=placeapi_v2",
+        "overall_rating": "0",
+        "image_num": "3",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "a74481d61d983b5ff503b86b"
+      }
+    },
+    {
+      "name": "洋山深水港观光游览区-龟蛇听经",
+      "location": {
+        "lat": 30.64452,
+        "lng": 122.068085
+      },
+      "address": "舟山市嵊泗县小洋山洋山石龙景区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "dfba012dba9851030e0a704f",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "new_alias": "洋山深水港观光游览区-龟蛇听经",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.06876296814,
+          "lat": 30.64314142788
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=dfba012dba9851030e0a704f&output=html&source=placeapi_v2",
+        "overall_rating": "0.0",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "仙女跳",
+      "location": {
+        "lat": 29.939911,
+        "lng": 122.393412
+      },
+      "address": "朱家尖镇朱家尖白山景点内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)6031033",
+      "detail": 1,
+      "uid": "1b7c500e722d116d1e1d119b",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;自然景观;风景区",
+        "new_alias": "白山景区-仙女断跳;仙女跳",
+        "tag": "旅游景点;风景区",
+        "navi_location": {
+          "lng": 122.3924100423,
+          "lat": 29.941613593122
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=1b7c500e722d116d1e1d119b&output=html&source=placeapi_v2",
+        "overall_rating": "0.0",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "f696f3c221208aea1a11d584"
+      }
+    },
+    {
+      "name": "绿眉毛",
+      "location": {
+        "lat": 29.927098,
+        "lng": 122.41104
+      },
+      "address": "舟山市普陀区朱家尖镇樟州湾乌石塘景区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "13706806272",
+      "detail": 1,
+      "uid": "dd3f14f48465c4821d580088",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.41044676076,
+          "lat": 29.926903116842
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=dd3f14f48465c4821d580088&output=html&source=placeapi_v2",
+        "overall_rating": "0.0",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "c61bd3050fec336bc27da2ef"
+      }
+    },
+    {
+      "name": "普陀鹅耳枥",
+      "location": {
+        "lat": 30.016914,
+        "lng": 122.396109
+      },
+      "address": "舟山市普陀区普陀山国家级风景名胜区内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)3191919",
+      "detail": 1,
+      "uid": "b3b9c9c7303e502071210b5f",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=b3b9c9c7303e502071210b5f&output=html&source=placeapi_v2",
+        "overall_rating": "5.0",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "0ce65c2da1f0b35a2d4733f1"
+      }
+    },
+    {
+      "name": "塘头石子滩营地",
+      "location": {
+        "lat": 30.045566,
+        "lng": 122.314172
+      },
+      "address": "浙江省舟山市普陀区螺塘线塘头石子滩营地",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "13905801568",
+      "detail": 1,
+      "uid": "2040d04654e88d2543e192f4",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "new_alias": "塘头石子滩营地(舟山最美公路)",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.31619853274,
+          "lat": 30.042212511321
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=2040d04654e88d2543e192f4&output=html&source=placeapi_v2",
+        "overall_rating": "3.7",
+        "image_num": "4",
+        "comment_num": "8",
+        "shop_hours": "08:00-18:30",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "舟山特色旅游商品专区",
+      "location": {
+        "lat": 29.956019,
+        "lng": 122.377688
+      },
+      "address": "机码线慈航广场",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "c74d4f92f56a7cb504026fec",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.37752051432,
+          "lat": 29.955910481768
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=c74d4f92f56a7cb504026fec&output=html&source=placeapi_v2",
+        "image_num": "1",
+        "shop_hours": "",
+        "label": "",
+        "children": []
+      }
+    },
+    {
+      "name": "薄刀嘴岛-露营地",
+      "location": {
+        "lat": 30.62126,
+        "lng": 122.153047
+      },
+      "address": "浙江省舟山市嵊泗县洋山镇薄刀嘴岛",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "26b313c229495d57e81e9730",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;露营地",
+        "tag": "旅游景点;其他",
+        "navi_location": {
+          "lng": 122.15251945435,
+          "lat": 30.621598643673
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=26b313c229495d57e81e9730&output=html&source=placeapi_v2",
+        "comment_num": "1",
+        "shop_hours": "",
+        "label": "旅游景点 露营地",
+        "children": []
+      }
+    },
+    {
+      "name": "燕窝礁",
+      "location": {
+        "lat": 30.353728,
+        "lng": 122.184646
+      },
+      "address": "舟山市岱山县东黄线",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "岱山县",
+      "detail": 1,
+      "uid": "be54cde92a283e5b78f796f3",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.18406162197,
+          "lat": 30.352925066119
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=be54cde92a283e5b78f796f3&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "南瓜山",
+      "location": {
+        "lat": 30.023608,
+        "lng": 122.21149
+      },
+      "address": "舟山市定海区长洞线",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "定海区",
+      "street_id": "c3c9aadb6c20787a2db96dae",
+      "detail": 1,
+      "uid": "c3c9aadb6c20787a2db96dae",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点",
+        "tag": "旅游景点",
+        "navi_location": {
+          "lng": 122.2110886563,
+          "lat": 30.022720778836
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=c3c9aadb6c20787a2db96dae&output=html&source=placeapi_v2",
+        "overall_rating": "0",
+        "image_num": "5",
+        "comment_num": "1",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": []
+      }
+    },
+    {
+      "name": "柱子山",
+      "location": {
+        "lat": 29.960888,
+        "lng": 122.382783
+      },
+      "address": "浙江省舟山市普陀区朱家尖街道",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "a39c6aa8b4cd8074276e982d",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;公园",
+        "tag": "旅游景点;公园",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=a39c6aa8b4cd8074276e982d&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "旅游景点 公园",
+        "children": []
+      }
+    },
+    {
+      "name": "东沙湾海滨浴场-草坪露营区",
+      "location": {
+        "lat": 29.891992,
+        "lng": 122.426264
+      },
+      "address": "舟山市普陀区朱家尖东沙村东沙湾海滨浴场",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "209b73c390f45e3e715e80f5",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;露营地",
+        "tag": "旅游景点;其他",
+        "navi_location": {
+          "lng": 122.41797325868,
+          "lat": 29.890598723386
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=209b73c390f45e3e715e80f5&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "",
+        "children": [],
+        "parent_id": "606ab0d0da18fc290e3ddaf4"
+      }
+    },
+    {
+      "name": "禅那庵",
+      "location": {
+        "lat": 29.893804,
+        "lng": 122.423977
+      },
+      "address": "舟山市普陀区朱乌线",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "6ed3083a9bfc27b42a3a9f98",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;人文景观;文物古迹",
+        "tag": "行政地标;村庄",
+        "navi_location": {
+          "lng": 122.42394393276,
+          "lat": 29.893847514038
+        },
+        "type": "life",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=6ed3083a9bfc27b42a3a9f98&output=html&source=placeapi_v2",
+        "image_num": "1",
+        "shop_hours": "",
+        "label": "文物古迹",
+        "children": []
+      }
+    },
+    {
+      "name": "戒幢院",
+      "location": {
+        "lat": 29.93522,
+        "lng": 122.400881
+      },
+      "address": "舟山市普陀区朱樟线附近中国佛学院普陀山学院内",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "04fa5ccfc60a8d31f7b916eb",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;寺庙",
+        "tag": "旅游景点;寺庙",
+        "navi_location": {
+          "lng": 122.40235177073,
+          "lat": 29.935425407026
+        },
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=04fa5ccfc60a8d31f7b916eb&output=html&source=placeapi_v2",
+        "overall_rating": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "景区,",
+        "children": [],
+        "parent_id": "000d478fb3962436d8131886"
+      }
+    },
+    {
+      "name": "东极乌托邦露营地",
+      "location": {
+        "lat": 30.146152,
+        "lng": 122.767615
+      },
+      "address": "舟山市普陀区东极镇东福山大岙村下排头1弄6号舟山东极憩泊家海景民宿",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "bd3882193b21e8c511882460",
+      "detail_info": {
+        "classified_poi_tag": "旅游景点;露营地",
+        "tag": "旅游景点;其他",
+        "type": "scope",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=bd3882193b21e8c511882460&output=html&source=placeapi_v2",
+        "shop_hours": "",
+        "label": "",
+        "children": [],
+        "parent_id": "a74481d61d983b5ff503b86b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1266 @@
+{
+  "status": 0,
+  "message": "ok",
+  "total": 42,
+  "result_type": "poi_type",
+  "query_type": "general",
+  "results": [
+    {
+      "name": "岱山洋小栈民宿",
+      "location": {
+        "lat": 30.463893,
+        "lng": 122.368946
+      },
+      "address": "浙江省舟山市衢山镇凉峙村洋门曲85号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "岱山县",
+      "telephone": "18368097172",
+      "detail": 1,
+      "uid": "5c3c124e5b4079548bb9887d",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=5c3c124e5b4079548bb9887d&output=html&source=placeapi_v2",
+        "overall_rating": "3.7",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "舟山飘·筑公寓",
+      "location": {
+        "lat": 29.920609,
+        "lng": 122.390792
+      },
+      "address": "舟山普陀区汇景东方",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "923db2c511b9c3d1157643b7",
+      "detail_info": {
+        "classified_poi_tag": "酒店;经济型",
+        "new_alias": "舟山飘·筑公寓;舟山飘筑公寓",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=923db2c511b9c3d1157643b7&output=html&source=placeapi_v2",
+        "overall_rating": "4.7",
+        "service_rating": "4.6",
+        "facility_rating": "4.6",
+        "hygiene_rating": "4.6",
+        "image_num": "52",
+        "comment_num": "1",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "朱家尖 经济型",
+        "children": []
+      }
+    },
+    {
+      "name": "梅健吉祥居公寓(龙沙路3号分店)",
+      "location": {
+        "lat": 29.99287,
+        "lng": 122.382969
+      },
+      "address": "舟山市普陀区龙沙新村1区-10号楼(吉祥居)",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "123eae3f11c8de7ca104644a",
+      "detail_info": {
+        "classified_poi_tag": "酒店;经济型",
+        "new_alias": "舟山梅健-吉祥居公寓(灵石禅院分店);舟山梅健公寓(17号店);舟山梅健公寓(灵石禅院分店)",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=123eae3f11c8de7ca104644a&output=html&source=placeapi_v2",
+        "overall_rating": "4.7",
+        "service_rating": "4.6",
+        "facility_rating": "4.6",
+        "hygiene_rating": "4.6",
+        "image_num": "53",
+        "comment_num": "9",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "经济型",
+        "children": []
+      }
+    },
+    {
+      "name": "普陀山易安居民宿",
+      "location": {
+        "lat": 29.992683,
+        "lng": 122.38197
+      },
+      "address": "普陀山镇龙沙一区11栋1单元101室",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "18358090099",
+      "detail": 1,
+      "uid": "90260b9356d0cab3c056ace0",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "new_alias": "普陀山易安居民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=90260b9356d0cab3c056ace0&output=html&source=placeapi_v2",
+        "overall_rating": "4.5",
+        "service_rating": "4.5",
+        "facility_rating": "4.5",
+        "hygiene_rating": "4.5",
+        "image_num": "180",
+        "comment_num": "8",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "岱山渔人码头民宿",
+      "location": {
+        "lat": 30.46521,
+        "lng": 122.377876
+      },
+      "address": "浙江省舟山市岱山县衢山镇沙龙村119号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "岱山县",
+      "telephone": "15967891842",
+      "detail": 1,
+      "uid": "70b9ec4292fece4841d63eb5",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "navi_location": {
+          "lng": 122.37777159496,
+          "lat": 30.465189526209
+        },
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=70b9ec4292fece4841d63eb5&output=html&source=placeapi_v2",
+        "overall_rating": "4.2",
+        "service_rating": "4.2",
+        "facility_rating": "4.2",
+        "hygiene_rating": "4.2",
+        "image_num": "74",
+        "comment_num": "6",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "普陀山来舍民宿",
+      "location": {
+        "lat": 29.989504,
+        "lng": 122.388411
+      },
+      "address": "浙江省舟山市普陀区普陀山镇梅岑路97弄2号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "13957216768",
+      "detail": 1,
+      "uid": "84103349321599b63617dce3",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=84103349321599b63617dce3&output=html&source=placeapi_v2",
+        "overall_rating": "4.9",
+        "service_rating": "4.8",
+        "facility_rating": "4.8",
+        "hygiene_rating": "4.8",
+        "image_num": "145",
+        "comment_num": "30",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "嵊泗枸杞岛柒号海景民宿",
+      "location": {
+        "lat": 30.728629,
+        "lng": 122.816968
+      },
+      "address": "舟山市嵊泗县嵊山枸杞景区",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "telephone": "19884020213",
+      "detail": 1,
+      "uid": "c82072b74fcdc9db04fef535",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=c82072b74fcdc9db04fef535&output=html&source=placeapi_v2",
+        "overall_rating": "4.8",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": [],
+        "parent_id": "cb358b8b5068d4aa2902e193"
+      }
+    },
+    {
+      "name": "嵊泗花鸟岛青禾民宿",
+      "location": {
+        "lat": 30.85419,
+        "lng": 122.70212
+      },
+      "address": "浙江省舟山市嵊泗县连心路27号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "telephone": "15958088684",
+      "detail": 1,
+      "uid": "337c33a20694bca90bccddd6",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "new_alias": "嵊泗花鸟岛青禾民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=337c33a20694bca90bccddd6&output=html&source=placeapi_v2",
+        "overall_rating": "4.5",
+        "service_rating": "4.6",
+        "facility_rating": "4.6",
+        "hygiene_rating": "4.6",
+        "image_num": "7",
+        "comment_num": "8",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": [],
+        "parent_id": "90e85b0f6c32c1794afd3f0d"
+      }
+    },
+    {
+      "name": "朱家尖笠辰居民宿",
+      "location": {
+        "lat": 29.931261,
+        "lng": 122.40324
+      },
+      "address": "舟山市香莲村小山下15号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "18721188358",
+      "detail": 1,
+      "uid": "dc2c447c46565226eee4a522",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=dc2c447c46565226eee4a522&output=html&source=placeapi_v2",
+        "overall_rating": "4.3",
+        "image_num": "16",
+        "comment_num": "4",
+        "shop_hours": "",
+        "label": "朱家尖 民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "嵊泗旺峰民宿",
+      "location": {
+        "lat": 30.71779,
+        "lng": 122.78798
+      },
+      "address": "浙江省舟山市嵊泗县奇观南路97号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "telephone": "18368080150,4006061230-47047",
+      "detail": 1,
+      "uid": "1298e051458c49149c09f73c",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "new_alias": "嵊泗旺峰民宿",
+        "tag": "酒店;民宿",
+        "navi_location": {
+          "lng": 122.78977516414,
+          "lat": 30.716636847684
+        },
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=1298e051458c49149c09f73c&output=html&source=placeapi_v2",
+        "overall_rating": "0.0",
+        "service_rating": "0.0",
+        "facility_rating": "0.0",
+        "hygiene_rating": "0.0",
+        "image_num": "2",
+        "comment_num": "0",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "嵊泗缘定民宿",
+      "location": {
+        "lat": 30.724804,
+        "lng": 122.816969
+      },
+      "address": "嵊山镇团结村沙角弄10号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "telephone": "13857227829",
+      "detail": 1,
+      "uid": "6605e57ad707f0dbbadf8f49",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=6605e57ad707f0dbbadf8f49&output=html&source=placeapi_v2",
+        "overall_rating": "4.5",
+        "service_rating": "0",
+        "facility_rating": "0",
+        "hygiene_rating": "0",
+        "image_num": "9",
+        "comment_num": "0",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "嵊泗足球之夜民宿(基湖沙滩店)",
+      "location": {
+        "lat": 30.718497,
+        "lng": 122.472249
+      },
+      "address": "菜园镇基湖村学亭路25号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "telephone": "15305806287",
+      "detail": 1,
+      "uid": "bdad3b446fc071db095cb3fc",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "new_alias": "嵊泗足球之夜民宿(基湖沙滩店)",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=bdad3b446fc071db095cb3fc&output=html&source=placeapi_v2",
+        "overall_rating": "4.6",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "嵊泗客恒满渔家民宿",
+      "location": {
+        "lat": 30.720108,
+        "lng": 122.787987
+      },
+      "address": "浙江省舟山市嵊泗县嵊泗枸杞乡大王村群艺街5号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "telephone": "13758035472",
+      "detail": 1,
+      "uid": "47a8fabc13cc2f07ae080f84",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=47a8fabc13cc2f07ae080f84&output=html&source=placeapi_v2",
+        "overall_rating": "3.2",
+        "service_rating": "3.2",
+        "facility_rating": "3.2",
+        "hygiene_rating": "3.2",
+        "image_num": "67",
+        "comment_num": "3",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "俊林渔家民宿",
+      "location": {
+        "lat": 30.720544,
+        "lng": 122.786543
+      },
+      "address": "浙江省舟山市嵊泗县嵊山枸杞景区环城路15号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "telephone": "13758023933",
+      "detail": 1,
+      "uid": "ac91f9b3117a6ccc3a04b198",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=ac91f9b3117a6ccc3a04b198&output=html&source=placeapi_v2",
+        "image_num": "1",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": [],
+        "parent_id": "cb358b8b5068d4aa2902e193"
+      }
+    },
+    {
+      "name": "舟山圣淘沙滩民宿",
+      "location": {
+        "lat": 29.892371,
+        "lng": 122.411812
+      },
+      "address": "金沙大道寺岙安置小区17幢102室",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "13587056709",
+      "detail": 1,
+      "uid": "e2d2ac10dc96a04974e5b6b7",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "navi_location": {
+          "lng": 122.41179796922,
+          "lat": 29.892450206233
+        },
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=e2d2ac10dc96a04974e5b6b7&output=html&source=placeapi_v2",
+        "overall_rating": "4.5",
+        "service_rating": "0",
+        "facility_rating": "0",
+        "hygiene_rating": "0",
+        "image_num": "1",
+        "comment_num": "0",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": [],
+        "parent_id": "7143bcd69ed8cf6e5abbbcec"
+      }
+    },
+    {
+      "name": "三宝精品民宿",
+      "location": {
+        "lat": 29.99285,
+        "lng": 122.382977
+      },
+      "address": "浙江省舟山市普陀区普陀山镇龙沙一区9幢一单元201室",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "15158683994",
+      "detail": 1,
+      "uid": "59c3804bdae09f9b4e55476e",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=59c3804bdae09f9b4e55476e&output=html&source=placeapi_v2",
+        "overall_rating": "4.7",
+        "service_rating": "0",
+        "facility_rating": "0",
+        "hygiene_rating": "0",
+        "image_num": "26",
+        "comment_num": "0",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "舟山潘杜花公寓(2号店)",
+      "location": {
+        "lat": 29.992541,
+        "lng": 122.382722
+      },
+      "address": "浙江省舟山市普陀区龙沙新村1区4幢",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "621d3a3eea7f74603913fd78",
+      "detail_info": {
+        "classified_poi_tag": "酒店;经济型",
+        "new_alias": "潘杜花公寓;舟山潘杜花公寓(2号店);舟山潘杜花公寓(4号店)",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=621d3a3eea7f74603913fd78&output=html&source=placeapi_v2",
+        "overall_rating": "0",
+        "service_rating": "0.0",
+        "facility_rating": "0.0",
+        "hygiene_rating": "0.0",
+        "image_num": "26",
+        "comment_num": "20",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "经济型",
+        "children": []
+      }
+    },
+    {
+      "name": "舟山普陀山三石农家乐",
+      "location": {
+        "lat": 29.98729,
+        "lng": 122.38203
+      },
+      "address": "舟山市普陀区普陀山镇西山二区",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "(0580)1323756",
+      "detail": 1,
+      "uid": "c0e4eebdcd5d5c0d57bfffea",
+      "detail_info": {
+        "classified_poi_tag": "酒店;经济型",
+        "new_alias": "普陀山三石农家乐",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=c0e4eebdcd5d5c0d57bfffea&output=html&source=placeapi_v2",
+        "overall_rating": "4.7",
+        "service_rating": "4.5",
+        "facility_rating": "4.5",
+        "hygiene_rating": "4.5",
+        "image_num": "33",
+        "comment_num": "20",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "经济型",
+        "children": [],
+        "parent_id": "f58d8a5a6fbe3e0f441a3292"
+      }
+    },
+    {
+      "name": "晓晓时光民宿",
+      "location": {
+        "lat": 30.456613,
+        "lng": 122.401813
+      },
+      "address": "舟山市衢山镇凉峙村王家横91号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "岱山县",
+      "telephone": "13867215323",
+      "detail": 1,
+      "uid": "35168dc125032fad364aae48",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "new_alias": "岱山晓晓时光民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=35168dc125032fad364aae48&output=html&source=placeapi_v2",
+        "price": "0.0",
+        "overall_rating": "0.0",
+        "service_rating": "0.0",
+        "facility_rating": "0.0",
+        "hygiene_rating": "0.0",
+        "image_num": "1",
+        "comment_num": "0",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "舟山小杜客栈(东沙分店)",
+      "location": {
+        "lat": 29.885128,
+        "lng": 122.41985
+      },
+      "address": "舟山市普陀区度假村路朱家尖璞缇海海景公寓",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "e086a12a6266bafd93114c9a",
+      "detail_info": {
+        "classified_poi_tag": "酒店;经济型",
+        "new_alias": "东沙分店;小杜客栈;舟山小杜客栈;舟山小杜客栈(14号店)",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=e086a12a6266bafd93114c9a&output=html&source=placeapi_v2",
+        "overall_rating": "0",
+        "service_rating": "0.0",
+        "facility_rating": "0.0",
+        "hygiene_rating": "0.0",
+        "image_num": "10",
+        "comment_num": "1",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "经济型",
+        "children": []
+      }
+    },
+    {
+      "name": "嵊泗一尺见海民宿",
+      "location": {
+        "lat": 30.85382,
+        "lng": 122.703081
+      },
+      "address": "浙江省舟山市花鸟乡花鸟村文广弄26、28号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "telephone": "18768052692",
+      "detail": 1,
+      "uid": "6dca367e6a4706f343afe64e",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=6dca367e6a4706f343afe64e&output=html&source=placeapi_v2",
+        "overall_rating": "4.9",
+        "service_rating": "0",
+        "facility_rating": "0",
+        "hygiene_rating": "0",
+        "image_num": "10",
+        "comment_num": "0",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "無事民宿(仰天院路分店)",
+      "location": {
+        "lat": 30.731274,
+        "lng": 122.457588
+      },
+      "address": "浙江省舟山市嵊泗县仰天院路嵊泗县嵊泗列岛风景名胜区",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "663c2bdc9ed5fa277169d3a2",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "navi_location": {
+          "lng": 122.45754757551,
+          "lat": 30.73119928546
+        },
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=663c2bdc9ed5fa277169d3a2&output=html&source=placeapi_v2",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": [],
+        "parent_id": "c2fd07fb607ee01f6cc02ca7"
+      }
+    },
+    {
+      "name": "悦享时光民宿",
+      "location": {
+        "lat": 30.716337,
+        "lng": 122.474632
+      },
+      "address": "舟山市嵊泗县菜园镇兴基路33号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "telephone": "13575612451",
+      "detail": 1,
+      "uid": "6783d306f8287cee373a71d3",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "new_alias": "悦·享时光民宿",
+        "tag": "酒店;民宿",
+        "navi_location": {
+          "lng": 122.47453025807,
+          "lat": 30.716451615701
+        },
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=6783d306f8287cee373a71d3&output=html&source=placeapi_v2",
+        "price": "341.0",
+        "overall_rating": "4.6",
+        "service_rating": "0",
+        "facility_rating": "0",
+        "hygiene_rating": "0",
+        "image_num": "9",
+        "comment_num": "0",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "Summer民宿",
+      "location": {
+        "lat": 29.927692,
+        "lng": 122.402095
+      },
+      "address": "朱家尖街道香莲路盐厂小区同德苑10幢102室",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "13666599871,13735004980",
+      "detail": 1,
+      "uid": "cedc3e51c09a32b60e3dda9c",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "navi_location": {
+          "lng": 122.40202374483,
+          "lat": 29.92764936428
+        },
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=cedc3e51c09a32b60e3dda9c&output=html&source=placeapi_v2",
+        "overall_rating": "4.9",
+        "service_rating": "0",
+        "facility_rating": "0",
+        "hygiene_rating": "0",
+        "image_num": "0",
+        "comment_num": "0",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "朱家尖 民宿",
+        "children": [],
+        "parent_id": "0fb36e651ce3618f60180932"
+      }
+    },
+    {
+      "name": "沙湾小筑",
+      "location": {
+        "lat": 30.703868,
+        "lng": 122.470384
+      },
+      "address": "浙江省舟山市嵊泗县菜园镇石柱村银沙路26号1层",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "telephone": "13735030899,13750727089",
+      "detail": 1,
+      "uid": "5f675930b7f68a00c03644aa",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "new_alias": "沙湾小筑",
+        "tag": "酒店;民宿",
+        "navi_location": {
+          "lng": 122.47048048892,
+          "lat": 30.703729705429
+        },
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=5f675930b7f68a00c03644aa&output=html&source=placeapi_v2",
+        "overall_rating": "5",
+        "service_rating": "5.0",
+        "facility_rating": "5.0",
+        "hygiene_rating": "5.0",
+        "image_num": "19",
+        "comment_num": "8",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "舟山心缘禅意民宿",
+      "location": {
+        "lat": 29.919577,
+        "lng": 122.390728
+      },
+      "address": "朱家尖街道庆丰路176号汇景东方花园2幢2室",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "18158096969",
+      "detail": 1,
+      "uid": "b4aeb4e397c101409ee321a9",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "new_alias": "舟山心缘禅意民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=b4aeb4e397c101409ee321a9&output=html&source=placeapi_v2",
+        "overall_rating": "0.0",
+        "service_rating": "0.0",
+        "facility_rating": "0.0",
+        "hygiene_rating": "0.0",
+        "image_num": "79",
+        "comment_num": "0",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "朱家尖 民宿",
+        "children": [],
+        "parent_id": "ded6a500059d85915d17c368"
+      }
+    },
+    {
+      "name": "东极蔚蓝海景民宿",
+      "location": {
+        "lat": 30.197394,
+        "lng": 122.690592
+      },
+      "address": "浙江省舟山市普陀区东极镇庙子湖岛庙坑2弄7号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "street_id": "",
+      "telephone": "13967205080",
+      "detail": 1,
+      "uid": "d65d42212b8e544f17b54b35",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "navi_location": {
+          "lng": 122.3270290003,
+          "lat": 29.947425952926
+        },
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=d65d42212b8e544f17b54b35&output=html&source=placeapi_v2",
+        "overall_rating": "4.4",
+        "service_rating": "4.8",
+        "facility_rating": "4.8",
+        "hygiene_rating": "4.8",
+        "image_num": "200",
+        "comment_num": "11",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": [],
+        "parent_id": "89fd4ea3eb1e5544e5e965f3"
+      }
+    },
+    {
+      "name": "嵊泗嵊山岛山乘吾浪海景民宿",
+      "location": {
+        "lat": 30.72128,
+        "lng": 122.82796
+      },
+      "address": "浙江省舟山市嵊泗县嵊山镇万年弄33号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "telephone": "18072662965",
+      "detail": 1,
+      "uid": "3abea92ea41efe925fd4fe77",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=3abea92ea41efe925fd4fe77&output=html&source=placeapi_v2",
+        "overall_rating": "4.6",
+        "service_rating": "4.1",
+        "facility_rating": "4.1",
+        "hygiene_rating": "4.1",
+        "image_num": "58",
+        "comment_num": "20",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "舟山忆人忆家精选民宿(18号店)",
+      "location": {
+        "lat": 29.987595,
+        "lng": 122.381702
+      },
+      "address": "舟山市普陀区山小柳农家乐(西山新村61幢)",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "943ae122592c7093f8f0cbc6",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "new_alias": "舟山忆人忆家精选民宿(18号店);舟山忆人忆家精选民宿(六峤路分店);舟山忆人忆家精选民宿六峤路分店",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=943ae122592c7093f8f0cbc6&output=html&source=placeapi_v2",
+        "overall_rating": "0.0",
+        "service_rating": "0.0",
+        "facility_rating": "0.0",
+        "hygiene_rating": "0.0",
+        "image_num": "1",
+        "comment_num": "0",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "舟山朱家尖逍遥居公寓",
+      "location": {
+        "lat": 29.91752,
+        "lng": 122.390175
+      },
+      "address": "浙江省舟山市普陀区庆丰路139号东方和园南区",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "906447f005377e7fd6b74e93",
+      "detail_info": {
+        "classified_poi_tag": "酒店",
+        "new_alias": "舟山朱家尖逍遥居公寓",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=906447f005377e7fd6b74e93&output=html&source=placeapi_v2",
+        "overall_rating": "0",
+        "service_rating": "0.0",
+        "facility_rating": "0.0",
+        "hygiene_rating": "0.0",
+        "image_num": "43",
+        "comment_num": "20",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "朱家尖 酒店",
+        "children": []
+      }
+    },
+    {
+      "name": "普陀区朱家尖小枫来民宿",
+      "location": {
+        "lat": 29.924684,
+        "lng": 122.391789
+      },
+      "address": "舟山市普陀区中欣路东晟嘉苑46栋101号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "18005801867",
+      "detail": 1,
+      "uid": "be5e6fc76430b381853304bc",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=be5e6fc76430b381853304bc&output=html&source=placeapi_v2",
+        "image_num": "6",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "朱家尖 民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "南屿小舍民宿",
+      "location": {
+        "lat": 29.98684,
+        "lng": 122.383745
+      },
+      "address": "舟山市普陀区梅岑路普陀山风景名胜区",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "detail": 1,
+      "uid": "86ee2f5432c3bc73c356ac40",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=86ee2f5432c3bc73c356ac40&output=html&source=placeapi_v2",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": [],
+        "parent_id": "a5097bfa3e2a5362f03cbace"
+      }
+    },
+    {
+      "name": "蟹将军民宿",
+      "location": {
+        "lat": 30.724072,
+        "lng": 122.815225
+      },
+      "address": "舟山市嵊泗县嵊山枸杞景区",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "telephone": "13454079330",
+      "detail": 1,
+      "uid": "b5864eca98cc19dc9d9d68e1",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=b5864eca98cc19dc9d9d68e1&output=html&source=placeapi_v2",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": [],
+        "parent_id": "cb358b8b5068d4aa2902e193"
+      }
+    },
+    {
+      "name": "普陀山幸福家园民宿",
+      "location": {
+        "lat": 29.986586,
+        "lng": 122.381899
+      },
+      "address": "浙江省舟山市普陀山西山二区55幢65号102室、53幢63号101室",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "18857068494",
+      "detail": 1,
+      "uid": "7445dead61b7bef9b35c6aaa",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=7445dead61b7bef9b35c6aaa&output=html&source=placeapi_v2",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": [],
+        "parent_id": "ca41ebcddb136e992e47334e"
+      }
+    },
+    {
+      "name": "嵊泗县山与渔家民宿",
+      "location": {
+        "lat": 30.71337,
+        "lng": 122.838732
+      },
+      "address": "浙江省舟山市嵊泗县嵊山镇后岗路34号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "90246a2c074f7e5a15c90562",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=90246a2c074f7e5a15c90562&output=html&source=placeapi_v2",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "栖熹谷轻奢民宿(嵊泗县-嵊泗本岛3号店)",
+      "location": {
+        "lat": 30.712047,
+        "lng": 122.4691
+      },
+      "address": "舟山市嵊泗县青石线嵊泗列岛风景名胜区",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "7140200a53e59d3c9703193e",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "navi_location": {
+          "lng": 122.4696726831,
+          "lat": 30.711305971875
+        },
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=7140200a53e59d3c9703193e&output=html&source=placeapi_v2",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": [],
+        "parent_id": "c2fd07fb607ee01f6cc02ca7"
+      }
+    },
+    {
+      "name": "嵊泗县谦屿渔家民宿",
+      "location": {
+        "lat": 30.726854,
+        "lng": 122.798452
+      },
+      "address": "浙江省舟山市嵊泗县枸杞乡东昇村中弄巷12号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "23191ba94a381bf3fda7781d",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=23191ba94a381bf3fda7781d&output=html&source=placeapi_v2",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "舟山舟人水宿海滨度假民宿(环城路店)",
+      "location": {
+        "lat": 30.749018,
+        "lng": 122.468944
+      },
+      "address": "舟山市嵊泗县菜园镇金平黄泥坎金平花园金海路413号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "b311ce852ceb5d7c72210be6",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=b311ce852ceb5d7c72210be6&output=html&source=placeapi_v2",
+        "price": "0.0",
+        "overall_rating": "0",
+        "service_rating": "0.0",
+        "facility_rating": "0.0",
+        "hygiene_rating": "0.0",
+        "image_num": "30",
+        "comment_num": "0",
+        "favorite_num": "0",
+        "checkin_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "嵊泗县星屿渔家民宿",
+      "location": {
+        "lat": 30.71337,
+        "lng": 122.838732
+      },
+      "address": "浙江省舟山市嵊泗县嵊山镇后岗路44号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "3a0982e9ab320546ddee8b1f",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=3a0982e9ab320546ddee8b1f&output=html&source=placeapi_v2",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "东极岛山海居民宿",
+      "location": {
+        "lat": 30.198181,
+        "lng": 122.689622
+      },
+      "address": "舟山市东极镇庙子湖庙坑2弄92号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "普陀区",
+      "telephone": "13567697750",
+      "detail": 1,
+      "uid": "74543f9bcc366be8c809f0ba",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=74543f9bcc366be8c809f0ba&output=html&source=placeapi_v2",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "花筑·汐沫民宿",
+      "location": {
+        "lat": 30.711579,
+        "lng": 122.486901
+      },
+      "address": "舟山市嵊泗县李五线嵊泗列岛风景名胜区",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "e9cc2ffb4003c13413293578",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=e9cc2ffb4003c13413293578&output=html&source=placeapi_v2",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    },
+    {
+      "name": "嵊泗县归去来渔家民宿",
+      "location": {
+        "lat": 30.71337,
+        "lng": 122.838732
+      },
+      "address": "浙江省舟山市嵊泗县嵊山镇后岗路5号",
+      "province": "浙江省",
+      "city": "舟山市",
+      "area": "嵊泗县",
+      "detail": 1,
+      "uid": "9903387fe1b3eef5bb17e7e3",
+      "detail_info": {
+        "classified_poi_tag": "酒店;民宿",
+        "tag": "酒店;民宿",
+        "type": "hotel",
+        "detail_url": "http://api.map.baidu.com/place/detail?uid=9903387fe1b3eef5bb17e7e3&output=html&source=placeapi_v2",
+        "image_num": "0",
+        "comment_num": "0",
+        "shop_hours": "",
+        "label": "民宿",
+        "children": []
+      }
+    }
+  ]
+}

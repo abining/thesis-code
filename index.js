@@ -7,7 +7,7 @@ const config = {
   region: '245',
   city_limit: true,
   output: 'json',
-  ak: '',
+  ak: 'JKZyC85ioOnR3FER68bsDO3AcAJS1DGn',
   page_size: 20,
   ret_coordtype: 'wgs84ll', // 坐标系类型，wgs84ll表示WGS84坐标系
   coord_type: '1',

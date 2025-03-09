@@ -23,3 +23,18 @@ node index.js
 ```bash
 node trans.js
 ```
+
+
+使用的时候需要把自己的ak粘贴上去：
+
+我的ak是尾号0140的号码申请的。
+
+```
+JKZyC85ioOnR3FER68bsDO3AcAJS1DGn
+```
+
+论文过程中的内容：
+
+研究区的矢量-下载gotJson格式的文件
+
+https://datav.aliyun.com/portal/school/atlas/area_selector
